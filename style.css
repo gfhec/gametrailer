@@ -1,0 +1,35 @@
+.flex {
+	display: flex;
+}
+h2 {
+	font-family: arial;
+	font-weight: normal;
+	padding-left: 15px;
+	padding-right: 50px
+}
+p {
+	padding-left: 15px;
+	color: grey
+}
+h1 {
+	font-family: arial;
+	margin-left: 110px;
+	padding-top: 50px
+}
+.big_divs {
+	margin-left: 80px;
+	padding-top: 50px
+}
+.all {
+	background-color: #f6eff7
+}
+.small_divs {
+	background-color: white;
+	width: 350px;
+}
+.divs {
+	margin-left: 50px
+}
+.biggest_div {
+	padding-bottom: 100px
+}
